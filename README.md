@@ -11,6 +11,10 @@ Without JWT :-
 
   JWT = JSON Web Token
 
-   Image1
+   procedure :-
+
+   1)  https://github.com/jwtk/jjwt?tab=readme-ov-file#jdk-projects
+
+    2) adding maven dependences from above link
    
 
